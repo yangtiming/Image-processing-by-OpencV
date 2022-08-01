@@ -13,7 +13,10 @@ you can watch a video from here:[youtube-video](https://youtu.be/dhqqqeSuR3Y)
 
 ## Function
 1.Qrcode detect
+
+
 2.Qrcode extract
+
 3.Qrcode position correct
 
 
