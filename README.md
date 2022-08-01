@@ -12,3 +12,8 @@ Through the Qrcode three special square proportional relations and their positio
 
 you can watch a video from here:[youtube-video](https://youtu.be/dhqqqeSuR3Y)
 
+
+
+## Results
+<img src="https://github.com/yangtiming/Image-processing-by-OpencV/blob/master/results.png" width="1000px">
+
